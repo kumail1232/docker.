@@ -1,2 +1,2 @@
 # docker.
-hmmm
+creating custom image 
